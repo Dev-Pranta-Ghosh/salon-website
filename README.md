@@ -47,10 +47,9 @@ These sections help present information clearly and guide visitors through the w
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+- SCSS
 
 ### Tools
-- Git
-- GitHub
 - Netlify (Deployment)
 
 ---
@@ -78,18 +77,6 @@ Through this project I improved my skills in:
 
 ---
 
-## 🚀 Future Improvements
-
-Possible improvements for the project include:
-
-- Online appointment booking system
-- Customer reviews section
-- Service filtering
-- Backend integration
-
----
-
 ## 👨‍💻 Author
 
-Pranta Ghosh  
-Frontend Developer
+Pranta Ghosh 
